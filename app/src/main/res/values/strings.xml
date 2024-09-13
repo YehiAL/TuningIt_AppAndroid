@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Tuning It</string>
+    <string name="varProd_descripcion">Descripción:</string>
+    <string name="varProd_cantidad">Cantidad:</string>
+
 </resources>
